@@ -133,6 +133,20 @@ AI-Powered Cattle &amp; Buffalo Breed Recognition System - My First SIH Project
 - **Offline Capabilities**: Essential features available without internet
 - **Battery Optimization**: Efficient rendering and minimal background processing
 
+## 🚀 Project Images
+
+Here are some visuals from our BU SIH Hackathon project:
+
+### 🖼️ Screenshots
+
+![Image 0001](projectxxximg/0001.png)  
+![Image 0002](projectxxximg/0002.png)  
+![Image 0003](projectxxximg/0003.png)  
+![Image 0004](projectxxximg/0004.png)  
+![Image 0005](projectxxximg/0005.png)  
+![Image 0006](projectxxximg/0006.png)  
+![Image 0007](projectxxximg/0007.png)
+
 ## 🔮 Technical Architecture Highlights
 
 ### 🧠 AI Integration Strategy
